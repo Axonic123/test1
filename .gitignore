@@ -7,6 +7,7 @@ __pycache__/
 *.swp
 tags
 frappedesk/docs/current
+#test
 
 # Distribution / packaging
 .Python
